@@ -1,5 +1,3 @@
-	
-#19/11/2022:
 #ABOUT THE PROJECT:
 
 	As this was an university assessment, I had to develop it entirely in Spanish.
@@ -42,8 +40,7 @@ Looking back I can tell it is a very basic and simple project, however it didn't
 
 I hope you like the project! :)
 
-
-	#Proyecto primer cuatrimestre Python 3.8
+#ORIGINAL README
 
 	################################################################################
 	####################     UPDATE LOGS     #######################################
