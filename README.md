@@ -1,9 +1,8 @@
 #ABOUT THE PROJECT:
 
-	As this was an university assessment, I had to develop it entirely in Spanish.
-
 	This is the first project I've ever coded, it was an university assessment in which we had to choose one .csv file from
-	kaggle (https://www.kaggle.com/), clean and process it to extract useful insights from that data.
+	kaggle (https://www.kaggle.com/), clean and process it to extract useful insights from that data. As this was an university assessment,
+	I had to develop it entirely in Spanish.
 
 	For my project I chose one which depicted various metrics on the development of the covid pandemic by country in the year 2020, 
 	a quite fitting dataset given this project was developed during 2020. Please do not consider these data as fact as I did not find 
