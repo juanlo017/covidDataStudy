@@ -30,6 +30,7 @@
 		- Lambda functions
 		- Python syntax
 		- Named tuples
+		- Debugging
 		- Think about useful insights that could be extracted from a dataset and then implement them with code.
 
 		-Overall, this 'initation' project helped me think of insights that could be interpreted from raw data and implement ways 
